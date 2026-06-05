@@ -88,6 +88,21 @@ SaaS商业模式 vs AI冲击
 | **AI编程工具** | Anthropic(Claude/私有) | Claude Code，AI编程新范式 | 观察 | 等待IPO |
 | **AI原生SaaS** | Databricks(私有) | AI/数据平台，取代传统数据分析SaaS | 观察 | 等待IPO |
 
+## 📊 投资头寸（2026.06.05更新）
+
+**辩论评级**: 通过（从「有条件通过」升级） | **论点强度**: 8/10
+
+| 方向 | Ticker | 名称 | 仓位% | 核心逻辑 |
+|:---:|------|------|:---:|------|
+| 🔴做空 | HUBS | HubSpot | 15% | 中端CRM+营销，AI替代最直接靶子，-70-80% |
+| 🔴做空 | TEAM | Atlassian | 10% | 协作工具壁垒被AI侵蚀，基本面恶化持续 |
+| 🟢做多 | PLTR | Palantir | 8% | AI原生平台最纯标的，$1.63B营收+85% YoY |
+| 🟢做多 | DDOG | Datadog | 8% | 可观测性因AI应用增加受益，Usage-based不受冲击 |
+| 🟢做多 | SNPS | Synopsys | 8% | EDA工具，AI芯片设计需求增长确定 |
+| 🟢做多 | CRWD | CrowdStrike | 8% | AI安全需求增长，安全SaaS有合规壁垒 |
+
+---
+
 ## 文件索引
 
 - [技术分析](technical_analysis.md) — AI编程工具进展、SaaS AI功能同质化、自建替代分析
