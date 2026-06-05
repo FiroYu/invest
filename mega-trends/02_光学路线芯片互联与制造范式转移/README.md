@@ -52,17 +52,38 @@
 
 ## 关键指标（判断验证用）
 
-| 指标 | 当前值（2026.05） | 判断阈值 | 数据来源 |
-|------|-------------------|----------|----------|
-| 光模块速率主流 | 800G → 1.6T 过渡 | 3.2T量产时确认光学路线不可逆 | LightCounting |
-| CPO渗透率（AI数据中心） | ~0%（量产元年） | 2028年达10%+时确认拐点 | Yole Group |
-| 硅光子在光模块中的占比 | ~30% | 50%+时确认硅光路线胜出 | 各研报 |
-| Ayar Labs/光互联独角兽营收 | 未公开（产品交付中） | 达$100M+ ARR时确认商业化 | 公司公告 |
-| 铜缆最大单通道速率 | 200G/lane（物理极限附近） | 无法突破224G时确认铜路线终结 | IEEE标准 |
-| 光子计算芯片商用案例 | 0（仅实验室/原型） | 首个大客户部署时为重大信号 | 新闻/论文 |
+| 指标 | 当前值（2026.06） | 判断阈值 | 数据来源 | 变化 |
+|------|-------------------|----------|----------|:----:|
+| 光模块速率主流 | **1.6T CPO标准** | 3.2T量产时确认光学路线不可逆 | TSMC COUPE; NVIDIA GTC | ↑ |
+| CPO渗透率（AI数据中心） | 2026H2开始出货（<1%） | 2030年35% (TrendForce) | TrendForce | — |
+| 硅光子在光模块中的占比 | ~30%→加速 | 50%+时确认硅光路线胜出 | 各研报 | ↑ |
+| Ayar Labs/光互联独角兽营收 | 首个COUPE演示(2025.12) | 达$100M+ ARR时确认商业化 | 公司公告 | — |
+| 铜缆最大单通道速率 | **224G <1米**（极限确认） | 无法突破224G时确认铜路线终结 | IEEE标准; Jensen/Hock Tan确认 | ★ |
+| 光子计算芯片商用案例 | 0（仅实验室/原型） | 首个大客户部署时为重大信号 | 新闻/论文 | — |
+| **NVIDIA CPO投资** | **$40亿锁仓Coherent+Lumentum** | — | CNBC 2026.03 | 🆕 |
+| **TSMC COUPE量产** | **2026.04正式量产** | — | TSMC Technology Symposium | 🆕 |
+
+## 投资头寸表（CIO裁决 2026.06.05）
+
+> 评级升级：🟡有条件通过 → 🟢**通过**
+
+| # | Ticker | 方向 | 目标仓位 | 状态 | 核心逻辑 |
+|---|--------|:----:|:--------:|:----:|---------|
+| 1 | **TSM** (TSMC) | LONG | 7% | ✅ 建仓中 | COUPE垄断者，硅光子时代的N5 |
+| 2 | **NVDA** (NVIDIA) | LONG | 5% | ⚠️ 等回调 | CPO最大推动者，Feynman(2028)集成NVLink CPO |
+| 3 | **AVGO** (Broadcom) | LONG | 3% | ✅ 可建仓 | Tomahawk CPO + ASIC，铜光两面下注 |
+| 4 | **MRVL** (Marvell) | LONG | 2% | ⚠️ 等催化剂 | 6.4T 3D SiPho引擎，最完整光互联DSP一体化 |
+| 5 | **COHR** (Coherent) | LONG | 2% | ✅ 可建仓 | NVIDIA $20亿投资背书，硅光子收发器 |
+| 6 | **LITE** (Lumentum) | LONG | 1% | ⚠️ 小仓位 | NVIDIA $20亿投资背书，激光源刚需 |
+| 7 | **ATEYY** (Advantest) | LONG | 2% | ✅ 可建仓 | CPO测试ATE领导者，V93000-Triton |
+| | **主题仓位上限** | | **18%** | | |
+
+> 头寸详情见 [updates/2026.06.05_round_1/cio_ruling.md](updates/2026.06.05_round_1/cio_ruling.md)
 
 ## 文件索引
 - [timeline.md](timeline.md) — 关键事件时间线
 - [technical_analysis.md](technical_analysis.md) — 技术深度分析（三个层次）
 - [economic_impact.md](economic_impact.md) — 经济影响与投资分析
 - [updates/](updates/) — 持续更新日志
+  - [updates/2026.06.05_round_1/research_comprehensive.md](updates/2026.06.05_round_1/research_comprehensive.md) — 综合研究报告 (Round 1)
+  - [updates/2026.06.05_round_1/cio_ruling.md](updates/2026.06.05_round_1/cio_ruling.md) — CIO裁决 (Round 1)

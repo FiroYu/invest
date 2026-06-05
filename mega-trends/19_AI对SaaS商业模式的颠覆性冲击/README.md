@@ -4,20 +4,32 @@
 
 市场普遍认为AI是SaaS的增量收入来源（"AI溢价"），但实际上AI是SaaS的利润杀手。AI功能同质化导致定价权丧失，SaaS毛利率从80%向60-70%压缩。Copilot/AI助手正在改变软件定价从按席位（seat-based）转向按用量（usage-based），这本质上是收入模式降级——用户用得更少时付得更少，而不是按人头固定收费。同时，AI编程工具（Cursor/GitHub Copilot/Claude Code）正在让企业自建软件替代SaaS订阅成为可能，特别是中端市场。Salesforce/ServiceNow/HubSpot面临结构性估值压缩。软件是过去20年最好的商业模式，但AI正在系统性地侵蚀其护城河和定价权。属反向共识级议题。
 
+**📊 最新评级：[通过]**（2026.06.05从「有条件通过」升级）
+- $2万亿SaaS市值蒸发，P/E 22.7x首低于标普500（2026年2月SaaSpocalypse确认）
+- AI原生产品毛利率仅52-70%（传统SaaS 78-85%），20个百分点永久性压缩
+- Salesforce Agentforce $1.2B ARR(+205%)证明龙头可转型，但水平SaaS(HUBS/TEAM/Figma)已跌70-80%
+- Klarna企业级AI替代SaaS案例标志着威胁从理论进入企业决策
+- 策略：做空水平/中端SaaS + 做多AI原生/基础设施
+
 ## 关键指标
 
-| 指标 | 数据 |
-|------|------|
-| SaaS行业平均毛利率 | 80%→预期60-70%（AI推理成本侵蚀） |
-| Salesforce AI功能定价 | Einstein Copilot $500/用户/月（vs 基础$25/用户/月） |
-| AI功能实际溢价空间 | 市场愿付20-30%溢价，但成本增加40-60% |
-| 企业SaaS流失率 | 从5-7%升至8-12%（2024-2025趋势） |
-| AI编程工具采用率 | 2025年约30-40%开发者使用AI编程工具 |
-| SaaS估值倍数(EV/Revenue) | 从2021年高点20-30x降至2025年5-10x |
-| Seat-based定价占比 | 当前~70%的SaaS收入，预期2030年降至40-50% |
-| AI推理成本趋势 | GPT-4级别成本18个月下降90%，但企业仍面临规模成本 |
-| 企业自建软件能力 | AI编程使开发效率提升3-5x，中端企业自建可行 |
-| SaaS行业总市值 | ~$7万亿（2025），结构性重估风险 |
+| 指标 | 数据 | 更新日期 |
+|------|------|----------|
+| SaaS行业平均毛利率 | 传统78-85%，AI原生52-70%（ICONIQ/falkster 2026） | 2026.06 |
+| SaaS板块总市值蒸发 | ~$2万亿（自2025.10高点），前瞻P/E 22.7x首低于S&P500 | 2026.06 |
+| Salesforce AI功能ARR | Agentforce $1.2B(+205% YoY)，AI+Data $3.4B | 2026.05(Q1 FY27) |
+| ServiceNow AI目标 | Now Assist从$1B上调至$1.5B，但运营利润率指引31.5%(↓) | 2026.04(Q1) |
+| Palantir AI原生增速 | 营收$1.63B(+85% YoY)，美国商业+133% | 2026.05(Q1) |
+| AI功能实际溢价空间 | 市场愿付20-30%溢价，但成本增加40-60% | 持续 |
+| 企业SaaS流失率 | 从5-7%升至8-12%（2024-2026趋势，持续恶化） | 2026 |
+| AI编程工具采用率 | 2026年约50%+开发者使用AI编程工具 | 2026 |
+| SaaS估值倍数(EV/Revenue) | 从2021年高点20-30x降至2026年4-8x | 2026.06 |
+| Seat-based定价占比 | 当前~60-65%（从70%加速下降），预期2030年降至40-50% | 2026.06 |
+| 水平SaaS跌幅 | HubSpot/Atlassian/Figma -70-80%（52周高点） | 2026.06 |
+| AI推理成本趋势 | GPT-4级别成本18个月下降90%，但企业规模推理成本仍高 | 2026 |
+| 企业自建软件能力 | AI编程使开发效率提升5-10x（Claude Code/Devin），中端企业自建可行 | 2026 |
+| Klarna AI替代SaaS | 标志性企业案例：AI agent替代CRM+HCM SaaS | 2026 |
+| SaaS行业总市值 | ~$5万亿（2026.06，$2万亿已蒸发），结构性重估持续 | 2026.06 |
 
 ## 反直觉视角
 
@@ -61,20 +73,20 @@ SaaS商业模式 vs AI冲击
 
 ## 核心标的
 
-| 类别 | 公司/代码 | 逻辑 |
-|------|-----------|------|
-| **潜在做空/承压** | Salesforce(CRM) | 最大SaaS公司，AI功能同质化+定价权丧失风险 |
-| **潜在做空/承压** | ServiceNow(NOW) | 工作流SaaS龙头，AI自助服务替代风险 |
-| **潜在做空/承压** | HubSpot(HUBS) | 中端CRM，AI编程自建替代最直接的靶子 |
-| **潜在做空/承压** | Workday(WDAY) | HCM SaaS，AI HR助手可能取代部分功能 |
-| **潜在做空/承压** | Atlassian(TEAM) | 协作工具，AI编程降低Jira/Confluence必要性 |
-| **AI原生受益** | Palantir(PLTR) | AI原生平台，从SaaS模式中受益于AI |
-| **AI原生受益** | Datadog(DDOG) | 可观测性平台，AI应用增加监控需求 |
-| **AI基础设施受益** | Synopsys(SNPS) | EDA工具，AI芯片设计需求增长 |
-| **AI基础设施受益** | Cadence(CDNS) | EDA工具，与SNPS双寡头 |
-| **AI编程工具** | Microsoft(MSFT) | GitHub Copilot，AI编程入口 |
-| **AI编程工具** | Anthropic(Claude/私有) | Claude Code，AI编程新范式 |
-| **AI原生SaaS** | Databricks(私有) | AI/数据平台，取代传统数据分析SaaS |
+| 类别 | 公司/代码 | 逻辑 | 头寸 | 最新变化 |
+|------|-----------|------|------|----------|
+| **核心做空** | HubSpot(HUBS) | 中端CRM+营销自动化，AI替代最直接靶子，-70-80%已跌 | 策略仓15% | 维持核心空头 |
+| **次要做空** | Atlassian(TEAM) | 协作工具（Jira/Confluence）壁垒被AI侵蚀 | 策略仓10% | 维持空头 |
+| **观察做空** | Salesforce(CRM) | Agentforce $1.2B ARR降低做空置信度，降仓 | 5%↓(从10%) | ⚠️ 降仓：AI转型比预期成功 |
+| **不做空** | ServiceNow(NOW) | ITSM护城河太深，毛利率77.5%维持，空头风险高 | — | 观察 |
+| **不做空** | Workday(WDAY) | -26-38% YTD已跌，HCM替换是慢变量 | — | 观察 |
+| **核心做多** | Palantir(PLTR) | AI原生平台，营收+85% YoY，AI受益最纯粹 | 策略仓8% | 🆕 新开多仓 |
+| **策略做多** | Datadog(DDOG) | 可观测性受益于AI应用增加，Usage-based不受定价转型冲击 | 策略仓8% | 维持多仓 |
+| **策略做多** | Synopsys(SNPS) | EDA双寡头，AI芯片设计需求增长确定 | 策略仓8% | 维持多仓 |
+| **策略做多** | CrowdStrike(CRWD) | AI安全需求增长，安全SaaS有合规壁垒 | 策略仓8% | 🆕 新开多仓 |
+| **AI编程工具** | Microsoft(MSFT) | GitHub Copilot，AI编程入口 | 观察 | AI基础设施受益 |
+| **AI编程工具** | Anthropic(Claude/私有) | Claude Code，AI编程新范式 | 观察 | 等待IPO |
+| **AI原生SaaS** | Databricks(私有) | AI/数据平台，取代传统数据分析SaaS | 观察 | 等待IPO |
 
 ## 文件索引
 
@@ -82,3 +94,6 @@ SaaS商业模式 vs AI冲击
 - [时间线](timeline.md) — AI冲击SaaS的关键事件与估值变化
 - [经济影响](economic_impact.md) — 受益/受损标的与投资策略
 - [动态更新](updates/) — 持续跟踪记录
+  - [2026.06.05 Round 1](updates/2026.06.05_round_1/) — 综合研究+CIO裁决+头寸：[通过]评级，PLTR+CRWD新开多仓，CRM降空仓
+  - [2026.05.25 更新](updates/2026.05.25_update.md) — SaaSpocalypse深化，$2T市值蒸发，AI原生毛利率52%
+  - [2026.05.21 初始建档](updates/2026.05.21_initial.md) — 议题建档，「有条件通过」评级
