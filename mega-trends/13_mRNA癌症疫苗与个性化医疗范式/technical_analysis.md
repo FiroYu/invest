@@ -1,4 +1,4 @@
-# 议题17 技术分析：mRNA平台原理与项目对比
+# 议题13 技术分析：mRNA平台原理与项目对比
 
 ## 一、mRNA平台技术原理
 
@@ -123,7 +123,7 @@ Moderna 的 mRNA-4157 采用以下策略：
 
 | 项目 | 公司 | 阶段 | 适应症 | 伙伴 | 差异化 |
 |------|------|------|--------|------|--------|
-| **BNT111** | BioNTech | Phase 2完成 | 黑色素瘤 | Regeneron | 固定抗原（非个性化），4种TAAs |
+| **~~BNT111~~** | ~~BioNTech~~ | **已停开发（2025.09）** | ~~黑色素瘤~~ | ~~Regeneron~~ | ~~固定抗原（非个性化），4种TAAs~~ **[R3 更正：BioNTech 已放弃 FixVac 固定抗原路线，集中个体化 BNT122]** |
 | **BNT113** | BioNTech | Phase 2 | HPV16+头颈癌 | — | 病毒抗原，HPV相关 |
 | **BNT116** | BioNTech | Phase 1/2 | NSCLC | Regeneron | 固定抗原，非小细胞肺癌 |
 | mRNA-2752 | Moderna | Phase 2 | 实体瘤 | — | 免疫调节（OX40L/IL-23/IL-36γ） |
