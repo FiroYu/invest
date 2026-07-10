@@ -23,40 +23,47 @@ AI正从"辅助工具"（Copilot模式）转变为"数字员工"（Agent模式�
 - **经济账**：平台化Agent TCO $30-80K ≈ 入门白领$65-95K，但仅限高重复性、低判断场景
 - **CRM估值**：从"显著低估"修正为"合理偏低"（Forward PE 13-17x对应9%有机增速）
 
+**Round 3 (07.10) 关键更新：**
+- **Agent PMF 分化裁定（核心）**：编码/垂直 Agent = 真实 PMF（Cursor $2B ARR 企业客户 60%、Devin $492M→$1B 目标、Copilot 付费 470 万 +75%，B2B 史上最快收入轨迹）；企业横向 Agent（Copilot-for-M365/Agentforce）= 试点膨胀 + FOMO 采购。**关键洞见：Copilot 20M 付费座位但使用率<4.5%（售用差 95.5%）不直接意味 Agent 收入崩溃——核心验证是续约率而非使用率**（CIO 采购决策者与员工使用者分离）。Agentforce $12亿 ARR 由 $27,600 低 ACV 堆砌，Gartner 预测 40% 将 2027 前取消。建议将 Agent PMF 拆为两子假设独立追踪。
+- **劳动力替代真实且加速**：AI 裁员从 49,135（Round 2）暴增至 87,714（前 5 月，超 2025 全年 1.6 倍），Challenger H1 科技裁员 139,156（+83%），AI 连续 4 月裁员首要原因；BPO 拐点（Concentrix 下调 $130M、Teleperformance 十年新低）；Stanford 入门级软件岗 -20%。H3 成立范围扩大。
+- **CRM 估值逆转回"显著低估"**：Forward PE 13-17x 压至 **11-12x**（10 年低）、PEG 0.74、DCF $293.74（+80%），有机增速 13%（非 9%）。股价 $163 已低于 Round 2 入场下沿 $170。**仓位 3%→先行 4%，Q2 续约率>75% 后加至 5%**。
+- **H5 CapEx 断裂：维持与穿零同时真**：4 家 ~$725B 无一下调、Alphabet 上调 $180-190B、NVDA Q2 指引 $91B，但 Amazon FCF -95%、Oracle -$23.7B——靠融资（$1350 亿新债 + Alphabet $85B 股权）非 OCF。断裂概率 25-30%→**20-25%**。CoreWeave 为系统性 canary（$210-300 亿债、FCF -$47 亿/季、Chanos 做空）。
+- **监管新风险**：OpenAI GPT-5.6 Sol 被 Trump 政府"gate test"12 天（06.26-07.08）——美国首次干预前沿模型发布；EU AI Act 08.02 全面执法。H4（监管不构成硬刹车）置信度下调。
+
 ## 辩论评级
 
-**有条件通过**（2026.05.25从"技术关注"上调，2026.06.03 Round 2维持）
+**有条件通过**（2026.05.25从"技术关注"上调，Round 2/3 维持）。Round 3 加权期望回报 +9.7%→**+10.0%**。
 
-**维持原因**：核心论点方向正确，Agent替代在编码/客服领域实证确认，Agentforce $12亿ARR是客观的产品-市场匹配信号。但使用深度数据缺失（DAU/MAU/续约率）、采纳拐点推迟至2027H2、CapEx断裂概率25-30%构成降级风险。
+**Round 3 维持原因**：数据方向支持——编码/垂直 Agent 真实 PMF + 劳动力替代加速（AI 裁员 87K）+ CRM 低估加深（PE 11-12x）。但二元验证节点（07.29 MSFT Q4 / 08-09 CRM Q2 续约率 / Hyperscaler 2027 CapEx 指引）全部在未来 4-8 周，且企业横向 Agent 试点膨胀（Copilot 使用率<4.5%）未解。
 
-**关键验证窗口**：
-- 2026.07：Microsoft FY26 Q4财报（Copilot用户数+Agent收入）
-- 2026.08.02：EU AI Act全面执法
-- 2026.08-09：Salesforce FY27 Q2财报（Agentforce续约率+ARR）
-- 2026.Q3：Hyperscaler 2027年CapEx指引（H5生死验证）
+**关键验证窗口（Round 3）**：
+- **2026.07.29**：Microsoft FY26 Q4 财报（Copilot 座位 + 使用率 + FY27 CapEx 指引）——定义性催化剂 #1
+- **2026.08.02**：EU AI Act 全面执法
+- **2026.08-09**：Salesforce FY27 Q2 财报（**Agentforce 续约率/NDR 首次披露——本课题最重要单一催化剂**）
+- **2026.Q3**：Hyperscaler 2027 年 CapEx 指引（H5 生死验证）
 
-**升级条件**：Agentforce续约率>80% + ARR环比>20% + Gartner渗透率>38%
-**降级条件**：Agentforce两季环比<10% 或 2家以上Hyperscaler下调CapEx>20%
+**升级至"通过"的 gate**（需同时满足≥3 项）：Copilot 座位>2,500 万 + 使用率改善 / CRM 续约率>75% / Hyperscaler 2027 CapEx 指引维持。
+**降级条件**：Agentforce NDR<70%（连续两季）或 2 家以上 Hyperscaler 下调 2027 CapEx>20% 或 CMU 等效 Agent 基准<40% 持续 6 月。
 
 ## 关键指标
 
 | 指标 | 当前值 | 趋势 | 更新日期 |
 |------|--------|------|---------|
-| AI相关裁员（2026 YTD） | 49,135人 | 加速 | 2026.06 |
+| AI相关裁员（2026 YTD） | 87,714人（Round 2 为 49,135，超 2025 全年 1.6 倍） | 加速 | 2026.07 |
 | Salesforce Agentforce ARR | $12亿（FY27 Q1，+205% YoY） | 爆发式增长 | 2026.05 |
 | Agentforce平均ACV | ~$27,600/年（29,000笔交易） | 偏低，试点为主 | 2026.05 |
 | Agent生产部署率 | 14-17%（Gartner Hype Cycle 2026） | 远低于预期 | 2026.Q2 |
 | 编码Agent生产部署率 | 86-90%（BeamSec 2026） | 已全面验证 | 2026 |
 | Gartner预测年底渗透率 | 40%任务型Agent | 跃升预期（需验证） | Gartner |
-| SWE-bench最高分 | 87.6%（Claude Opus 4.7） | 持续上升 | 2026.Q1-Q2 |
+| SWE-bench最高分 | 87.6%→**95.0-95.5%**（Fable 5/Mythos 5）；但 OpenAI 审计发现 30% 任务有缺陷 | 持续上升（基准本身可信度危机） | 2026.Q2-Q3 |
 | 企业AI支出 | $2.52万亿（+44% YoY） | 加速 | Gartner |
 | AI占企业收入比 | 1.7%（上期0.8%，翻倍） | 显著上升 | Gartner |
 | GitHub Copilot代码贡献 | 46%平均/Java 61% | 持续上升 | 2026 |
-| Copilot付费座位 | 1,500万（Microsoft FY26 Q2） | 稳步增长 | 2026.01 |
+| Copilot付费座位 | **20M**（Round 2 为 1,500万）但**使用率<4.5%、周活~1%**（售用差 95.5%） | 座位增/使用崩 | 2026.07 |
 | Hyperscaler CapEx 2026指引 | $630-750B（+75% YoY） | 抛物线阶段 | 多源验证 |
 | 推理成本趋势 | 年降~10x（a16z LLMflation） | 持续下降 | a16z |
 | 信息行业就业 | 16个月连续净减少 | 持续恶化 | BLS 2026.04 |
-| CRM Forward PE | 13-17x（10年最低区间） | 合理偏低 | GuruFocus |
+| CRM Forward PE | **11-12x**（Round 2 为 13-17x，10 年低），PEG 0.74，DCF $293.74（+80%） | 显著低估（逆转） | 2026.07 |
 
 ## 争议与不确定性
 
@@ -79,6 +86,7 @@ AI正从"辅助工具"（Copilot模式）转变为"数字员工"（Agent模式�
 
 | 日期 | 更新内容 | 文件位置 |
 |------|---------|---------|
+| 2026.07.10 | **Round 3 综合**：Agent PMF 分化裁定（编码/垂直真实 vs 企业横向试点膨胀）；劳动力替代加速（裁员 49K→87K）；CRM 估值逆转回"显著低估"（PE 11-12x，仓位 3%→先行4%）；H5 CapEx 断裂维持与穿零同时真（20-25%）；新增监管风险（GPT-5.6 被政府 gate test）。辩论评级维持"有条件通过"，加权回报 +9.7%→**+10.0%**。退场标准扩至 K1-K12。 | `updates/2026.07.10_round_3/_synthesis.md` |
 | 2026.06.03 | Round 2综合评审完成：交叉评审+ CIO综合报告。辩论评级维持"有条件通过"。采纳拐点推迟至2027H2-2028H1。CRM估值从"显著低估"修正为"合理偏低"。生产部署率从31%修正为14-17%。加权预期回报+9.7%（从+12.4%下调）。 | `updates/2026.06.03_round_2/_synthesis.md` |
 | 2026.06.03 | Round 2全套研究报告：背景包、A修订版（基本面）、B原始版（催化剂）、C原始版（宏观）、魔鬼辩护人、PM审阅 | `updates/2026.06.03_round_2/` |
 | 2026.05.25 | 辩论评级从"技术关注"上调至"有条件通过" | Round 1评审 |
@@ -100,3 +108,10 @@ AI正从"辅助工具"（Copilot模式）转变为"数字员工"（Agent模式�
 - `technical_analysis.md` — 技术架构与平台对比
 - `economic_impact.md` — 经济影响：受益与受损行业分析
 - `updates/` — 动态更新与研究笔记
+  - `updates/2026.07.10_round_3/` — Round 3 多角色辩论（最新，捕获 06.05→07.10 进展）
+    - `updates/2026.07.10_round_3/_synthesis.md` — CIO 最终综合报告
+    - `updates/2026.07.10_round_3/01_researcher_A_fundamental.md` — 基本面研究员报告
+    - `updates/2026.07.10_round_3/01_researcher_B_catalyst.md` — 催化剂研究员报告
+    - `updates/2026.07.10_round_3/01_researcher_C_macro.md` — 宏观研究员报告
+    - `updates/2026.07.10_round_3/02_devil_advocate.md` — 魔鬼辩护人报告
+    - `updates/2026.07.10_round_3/03_pm_review.md` — PM 审阅备忘录

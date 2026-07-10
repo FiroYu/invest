@@ -36,6 +36,15 @@
 - **2026年**：Google Gemini Agent深度整合进Google Workspace，挑战Microsoft Copilot的企业市场。
 - **2026年**：ServiceNow、Workday等企业软件平台全面嵌入AI Agent能力。
 
+### 2026年Q2-Q3（Round 3，07.10）— Agent PMF 分化与劳动力替代加速
+- **2026年Q2-Q3 编码 Agent 商业化爆发**：Cursor ARR 从 $100M→$4B（16 个月），被 SpaceX 以 $600 亿收购；Cognition Devin $492M ARR 目标 $1B（估值 $260 亿），自身 89-90% 代码由 Devin 编写；GitHub Copilot 付费订阅 470 万（+75% YoY）。SWE-bench Verified 87.6%→95.0-95.5%。编码领域从"验证中"进入"接近饱和"——但 SWE-bench 本身陷可信度危机（OpenAI 07.08 审计 30% 任务有缺陷，停止报告 Verified 分数）。
+- **2026.07.07 Microsoft Copilot 售用差暴露**：20M 付费座位但实际使用率<4.5%、周活~1%（WindowsLatest）——"已售-已用"差值 95.5%，比"嵌入-生产"差值更严重。企业横向 Agent 试点膨胀 + FOMO 采购确认。
+- **2026.07.09 Salesforce 双重下调**：KeyBanc + Bernstein 同日下调 CRM（"Agentforce, as a product, just isn't there"），CRM 跌~3% 引发软件股下滑。Agentforce $12亿 ARR 由 $27,600 低 ACV 试点堆砌，Gartner 预测 40% 将 2027 前取消。
+- **2026年 H1 劳动力替代加速**：Challenger 报告美国科技裁员 139,156（+83%），AI 连续 4 月裁员首要原因，AI 裁员累计 87,714（超 2025 全年 1.6 倍）。Stanford 确认入门级软件岗 -20%。BPO 拐点：Concentrix 下调 FY26 指引 $130M（股价 -25%）、Teleperformance 创十年新低。
+- **2026.06.26-07.08 GPT-5.6 Sol 被政府 gate test**：OpenAI GPT-5.6 Sol 被 Trump 政府"gate test"12 天——美国首次直接干预前沿模型发布，即便在 Trump 宽松 AI 政策框架下。EU AI Act 08.02 全面执法临近。
+- **CRM 估值重定价**：股价 $190→$163（-14%），Forward PE 压至 11-12x（10 年低）、PEG 0.74、DCF $293.74（+80%）。从"合理偏低"逆转回"显著低估"。
+- **CIO Round 3 裁定（07.10）**：评级维持"有条件通过"，加权回报 +9.7%→+10.0%；CRM 仓位 3%→先行 4%（Q2 续约率>75% 后 5%）、入场 $170-190→$155-175、止损 $140；MSFT 入场 $430-460→$360-400；NOW 小仓位 1%；BPO 做空可选 0.5-1%。退场标准扩至 K1-K12。关键 gate：07.29 MSFT Q4 + 08-09 CRM Q2 续约率。
+
 ## 2027年：多Agent系统与端到端流程
 
 - **2027年（预期）**：多Agent系统（Multi-Agent Systems）成熟，能处理端到端业务流程。

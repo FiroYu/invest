@@ -84,6 +84,15 @@
 - Morgan Stanley预测2028年AI基础设施投资约$3万亿
 - AI ASIC市场预计2027年达$300亿+
 
+### 2026年Q2-Q3（Round 3，07.10）— ASIC 范式确立 + 过剩信号浮现
+- **ASIC 范式确立**：NVIDIA 推理单位份额从 ~95% 降至 **62-66%**。四大 Hyperscaler 全部推出/量产自研芯片——Microsoft Maia 200（10,200 TFLOPS FP4，驱动 GPT-5.2）、Google TPU v7 Ironwood GA（TCO 比 GB200 低 44%，Anthropic 3.5GW 协议）、AWS Trainium 4（288GB HBM）、Meta MTIA 400（9月量产）。Broadcom 锁定四大合同（OpenAI 10GW + Meta 多-GW + Google LTA 至 2031 + Anthropic 3.5GW），Hock Tan 公开 >$100B 2027 AI 收入目标。但 NVIDIA 收入仍 +95%——"份额降、收入升"结构性窗口持续。子论点1 升级为"通过"。
+- **2026.06.30-07.01 Rubin Ultra 四芯版取消**：CoWoS-L 基板翘曲迫使改双两芯，2027 算力减半。封装物理极限开始结构性限制 NVIDIA 路线图斜率，反讽利好 ASIC（单芯设计受 CoWoS-L 翘曲影响小）。
+- **2026.07.01 Meta 转卖方信号（本轮最关键）**：Meta 宣布对外销售 GPU 算力（Meta Compute），成为首个从超级买方转为卖方的 Hyperscaler；xAI 已向 Google 卖算力；NVDA 被曝从 neocloud 回租产能。子论点3（GPU 过剩）升级为"警报级技术关注"，新增 K9（买方转卖方）为最高优先级预警。
+- **NVDA 估值重定价**：Forward PE 从 Round 2 的 25.5x 压至 **20-22x**（7年低），PEG 0.45；股价较 ATH 回调 -14%，YTD 仅 +4%（vs SOXX +75%）。CIO 裁定"justified cheap"——非洼地非陷阱，仓位 25-30%→22-28%、入场 $222→$195-210、止损 $168。
+- **Hyperscaler CapEx 加速但 FCF 崩溃（同源相反）**：2026 指引 $710-725B（+77%），BofA/Moody's 预测 2027 破 $1 万亿；但 Amazon TTM FCF $38.2B→$1.2B（-95%）、Oracle -$23.7B。靠融资非 OCF 驱动（AI IG 倵 $121B +332%、Alphabet $85B 股权增发超额认购）。断裂概率 20-25%。
+- **API 定价战白热化**：Meta Muse Spark $4.25/M、OpenAI 考虑大降、Google Plus -37%。K5 早期预警，定价权侵蚀从 2028+ 前移至 2027H1。
+- **H100 spot 触及 $0.79-1.40**（市场云），但 B200 仍紧俏（$2.35-7.00/hr）——"二级市场过剩、一级市场仍紧"分化确认。
+
 ## 2027-2029：架构多元化时代
 
 ### 2027（预期）
