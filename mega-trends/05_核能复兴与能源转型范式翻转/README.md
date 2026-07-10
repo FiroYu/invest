@@ -70,3 +70,13 @@
   - [2026.05.21_initial.md](updates/2026.05.21_initial.md) — 初始研究
   - [2026.05.25_update.md](updates/2026.05.25_update.md) — 第一次更新
   - [2026.06.04_round_2/](updates/2026.06.04_round_2/) — 完整投研分析（Round 2）
+
+## Round 3 更新（2026-07-10）
+
+**CIO 裁定：通过（维持高信心，但新增 BYOP 与地热竞争约束）。** AI 数据中心把核能从气候选项推成 firm power 资产，但短中期更像核电运营商、铀矿和电网设备的确定性行情，SMR 仍是 2028-2030 之后的高 beta 期权。
+
+**R2→R3 diff**：R2 的核能复兴逻辑被数据中心供电压力继续强化；R3 新增判断是 BYOP 模式会让核电、燃机、储能、EGS 共同受益，核能不是唯一解。EGS/Fervo 已进入 2026-2028 交付窗口，是比聚变更近的反身性竞争者。
+
+**配置**：确定性层：CEG/VST/TLN、铀矿与铀基金、核燃料服务、GEV/BWX/Rolls-Royce；高 beta：TerraPower/X-energy/SMR 生态；对冲观察：Fervo/EGS、燃机与电网设备。
+
+**风险**：SMR 成本重演 NuScale、监管许可、核废料、铀价回落、数据中心 phantom demand、EGS 成本曲线快于核电。
