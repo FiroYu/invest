@@ -27,3 +27,21 @@
 - **2026-04**: LeCun 在 Welch Labs 播客详细阐述 JEPA 架构，对比传统生成式模型优劣
 - **2026-05-21**: 本跟踪项目创建
 - **2026-06-04**: Round 2 更新 — 辩论评级维持「技术关注」
+
+## 2026 Q2-Q3（Round 3，07.10）— "思想胜利、架构失败"悖论 + 第三方采纳归零 + AMI Labs 静默
+
+- **GPT-5.6 发布（7/8）**：距 GPT-5.5（4/23）仅 11 周。LLM 进入「5 周一迭代」节奏。SWE-bench Verified GPT-5.5 = 82.6%，距 R2 阈值 85% 仅 -2.4pp — [CNBC](https://www.cnbc.com/2026/07/08/)
+- **CapEx 进入债务融资阶段（★★★★★，架构锁定加深）**：Amazon -FCF $17B（再借 $25B）、Oracle -FCF $24B（6/10 财报后跌 11%，拟融 $45-50B）、5 巨头合计 FCF 跌 >70%。Goldman 上调 2027 CapEx 至 $1.1T，全周期 $5.3T。**借债加注比现金支出更强的 Transformer 架构锁定信号** — 升级条件 #3 不仅未触发且**远离触发** — [Goldman Sachs Research](https://www.goldmansachs.com/insights/articles/tracking-trillions-the-assumptions-shaping-scale-of-the-ai-build-out)
+- **JEPA 第三方采纳 = 0（头号利空）**：Google Genie 3（生成式）/ OpenAI Sora 2（diffusion，"world simulator"）/ NVIDIA Cosmos 3（omnimodal 生成式）/ World Labs Marble（NeRF）/ Figure Helix 02（VLM 混合）——**全部选择非 JEPA 路径**。升级条件 #2 明确未触发 — A+B+魔鬼三源一致
+- **AMI Labs 4 个月零 main-track 产出**：seed 闭于 3/9（$3.5B **pre-money**），至 7/10 无 main-track 论文/产品/demo。ICML 2026（**首尔 COEX** 7/6-11，背景包误作华盛顿已纠正）仅 3 篇 workshop paper — [TechCrunch 3/9](https://techcrunch.com/2026/03/09/)
+- **LeJEPA 归属 CIO WebSearch 查证**：arXiv 2605.26379「When Does LeJEPA Learn a World Model?」作者 LeCun 机构 = **Meta FAIR/NYU，非 AMI**。原始 LeJEPA（arXiv 2511.08544, 2025.11）为 LeCun 离开 Meta 前工作。**不计入"AMI 发布世界级研究"** — 升级条件 #1 未触发
+- **DeepSeek V4 效率锁定（★★★★☆）**：V4 MoE（1.6T 参数）推理成本降 50x。Forbes 称「下一场竞赛是效率」。Transformer 自身变高效——JEPA「高效架构」独有叙事被摘桃子 — [Forbes 4/26](https://www.forbes.com/sites/geruiwang/2026/04/26/)
+- **Hyperscaler 2026 CapEx 升至 $725B**（R2 时点 ~$700B）。JEPA 产业资金占比 0.15%→**0.14%** — [CNBC](https://www.cnbc.com/2026/02/06/)
+- **World model 概念破圈但标签通胀（★★★★☆）**：H1 2026 VC 向 world model 投入 **>$3B**（World Labs $1B + AMI $1.03B + Decart $300M + Manifold）。但 AMI Labs CEO Alexandre LeBrun 3 月预警「六个月内每家公司都自称 world model」已应验。JEPA 在 $3B 中占比 ≤10% — [Forbes 6/30](https://www.forbes.com/sites/josipamajic/2026/06/30/)
+- **机器人具身智能加速但去 JEPA 化**：1X World Model Lab（6/4）/ Figure Helix 02（8h 工厂班次）/ PI π0.7（4/16）/ Tesla Optimus Gen 3——全选生成式/视频预测/VLA 混合，未采用 JEPA
+- **V-JEPA 2.1 + C-JEPA 发布**：V-JEPA 2.1（2026-03，Ego4D 7.71 mAP，+35%）。年度节奏持续（I-JEPA→V-JEPA→2→2.1），但参数量未推至 10B+；**V-JEPA 3 截至 07-10 未发布**（T2 触发监测）
+- **OpenAI 重建 robotics team**："从 chatbot 到 physical AI"成行业叙事。路线可能是 LLM+多模态+机器人 stack 而非 JEPA——支持情景 C — [DigitalCXO](https://digitalcxo.com/)
+- **stable-worldmodel benchmark 揭示脆弱**（5/20 arXiv）：所有世界模型架构（含 JEPA）在轻微扰动下性能急剧下降 — [TechTimes 5/31](https://www.techtimes.com/)
+- **Goldman「AI: In a Bubble?」报告**：正式量化 AI 投资循环性风险（AI 公司投资 AI 公司）。但未提及架构路线风险——市场完全未定价架构更替
+- **10Y UST 升至 4.56%（7/8）**：两周内 +18bp。JPM 预计全年不降息+2027 可能加息。高贴现率压制 AMI Labs 等长周期研究型公司 — [FRED DGS10](https://fred.stlouisfed.org/series/DGS10)
+- **CIO Round 3 裁定（07.10）**：维持「技术关注」+ 新增 **12 个月日落条款**（AMI Labs 2027 Q1 无 main-track → 自动降级「观察」）。H1 72%→65%、H2 25%→20%、H4 80%→**86%**（本轮最强化）；情景 C 25%→**32%**，C+D=48%。魔鬼辩护人利空事实全部查证属实但降级时机过度（R2 降级条件 #1 距到期 18 个月 + 非可投资课题降级=自毁监测价值）。**不基于 JEPA 调整任何 GPU/HBM 仓位**。下次复查 8 月下旬（Hyperscaler Q2 财报是 #01/#17/#21 共同裁定时刻）
