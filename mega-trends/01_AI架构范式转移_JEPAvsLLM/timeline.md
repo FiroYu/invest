@@ -20,5 +20,10 @@
 - **2025-12**: **VL-JEPA** 论文发布，首个基于 JEPA 的视觉-语言模型，解码速度 2.85x 更快，参数减少 50% — [arXiv](https://arxiv.org/abs/2512.10942)
 
 ## 2026
-- **2026-05**: LeCun 在 Welch Labs 播客详细阐述 JEPA 架构，对比传统生成式模型优劣 — [OFweek 报道](https://m.ofweek.com/ai/2026-05/ART-201717-8140-30686579.html)
+- **2026-01**: LeCun 在 MIT Technology Review 专访中公开阐述 AMI Labs 愿景 — "非美非中的第三极"，明确反对 LLM 路线 — [MIT TR](https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/)
+- **2026-03**: **AMI Labs 完成 $1.03B 种子轮融资**，$3.5B pre-money 估值（欧洲史上最大种子轮）。联合领投：Cathay Innovation/Greycroft/Hiro Capital/HV Capital/Bezos Expeditions。战略投资者：**NVIDIA**/Temasek/Samsung/Toyota Ventures — [Futurum](https://futurumgroup.com/insights/yann-lecuns-ami-raises-1bn-seed-round-is-the-world-model-era-finally-here/)
+- **2026-03**: NVIDIA GTC 2026 将 **World Models** 列为核心主题之一。NVIDIA 机器人研究总监 Jim Fan："2026 年将标记 Large World Models 为机器人奠定真正基础的第一年"
+- **2026-03**: Not Boring 发表万字深度文章 *World Models: Computing the Uncomputable*，系统性梳理 World Model 理论与产业进展 — [Not Boring](https://www.notboring.co/p/world-models)
+- **2026-04**: LeCun 在 Welch Labs 播客详细阐述 JEPA 架构，对比传统生成式模型优劣
 - **2026-05-21**: 本跟踪项目创建
+- **2026-06-04**: Round 2 更新 — 辩论评级维持「技术关注」
