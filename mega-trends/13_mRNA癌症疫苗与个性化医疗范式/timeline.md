@@ -66,12 +66,23 @@
 ## 当前阶段（2026年）
 
 ### 2026年
-- **mRNA-4157 Phase 3 数据读出**（预计 H2 2026 - H1 2027）
-  - 这是整个领域的决定性事件
-  - 如果 Phase 3 验证 Phase 2 结果（HR 0.51），将确证疗效
+
+**[R4 新增：2026 年窗口实证事件（07.10-10.10）]**
+
+- **2026.08.05 — FDA 批准 mFLUSIVA（mRNA-1010）**：首个 mRNA 流感疫苗；50-64 岁全面批准、65+ 附条件批准（需确证数据）；40,000 人 III 期相对效力 +26.6%；审评路径 RTF→AdCom 9:0→获批，但 ACIP 因法院令停摆致无 CDC 推荐。**预防端首次监管阳性（带三重折扣）**
+- **2026.08.19 — INTerpath-001 Phase 3 期中分析阳性（范式确认事件）**：intismeran autogene（V940/mRNA-4157）+ Keytruda 辅助治疗完全切除 IIB-IV 黑色素瘤，**RFS（主要）+ DMFS（关键次要）双终点统计学显著且临床意义显著**（n=1,137，双盲，2:1）；首个个体化新抗原疗法 + 首个 mRNA 癌症疗法的 Phase 3 阳性；首个在辅助黑色素瘤击败 Keytruda 单药的组合；无新安全信号；HR/效应量未披露；OS 继续随访；MRNA 单日 +~177%（+$44B 市值）
+- 2026.07.31 — Moderna Q2：营收 $145M、现金 $6.9B、年末现金指引上调至 $4.7-5.2B（T3 现金危机解除）
+- 2026.08.03-04 — BioNTech：CEO 更替（Sahin→Oelkers，最迟 2027.02 上任）；Q2 现金 €16.6B、14 项 pivotal 在跑（BNT122 个体化 Phase 3 仍缺席，T4 维持）
+- 2026.08.20 — BioNTech WCLC：BNT116（固定抗原 NSCLC）推进 + pumitamig novel-novel 首个全球数据
+- 2026.09.10 前后 — Oxford×Moderna INTERCEPT-Lynch（mRNA-4194）Phase 1/2 首例给药（Lynch 预防叙事落地执行）
+- 2026.09.21 — INTerpath-001 数据获 ESMO 2026 总统研讨会席位（10.24，马德里）；MRNA +12%
+- 2026.10.01-09 — MRNA 重新纳入 Nasdaq-100（10.9 生效，替换 WBD）；10.9 收 $225（YTD +516-556%，市值 ~$75.8B）
+
+- **mRNA-4157 Phase 3 后续**（HR 数值与 OS：ESMO 10.24 披露 → BLA 递交"within months"（Polymarket 押 2027.06.30 前）→ 获批 2027H2-2028）
+  - ~~如果 Phase 3 验证 Phase 2 结果（HR 0.51），将确证疗效~~ **[R4 更新：双终点已阳性，HR 待 ESMO 披露]**
   - FDA 可能基于突破性疗法认定加速审批
 - ~~BioNTech BNT111 可能启动 Phase 3~~ **[R3 更正：BNT111 已于 2025.09 停开发，此条作废]**
-- Moderna NSCLC 项目 Phase 2/3 可能启动
+- Moderna NSCLC 项目（INTerpath-002）为市值核心支撑（患者池 10x 黑色素瘤）
 - mRNA 制造工艺持续优化，个性化周期缩短
 - 个性化疫苗定价模式讨论加速
 - 竞争格局动态：Gritstone、Genocea 等其他新抗原疫苗进展
