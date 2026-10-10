@@ -53,3 +53,22 @@
 - **2030-2035**: 量子机器学习与AI深度结合
 - **2035**: 美国联邦系统PQC迁移目标完成
 - **2040前后**: 保守估计RSA-2048可能被破解
+
+## 2026 Q3-Q4（Round 4，10.10）— IonQ 生死验证通过 + IBM RCS 部分信号 + QNT 破发 + 纠错里程碑群
+
+- **08.05**：**IonQ Q2 财报**——GAAP 收入 $80.1M（+287% YoY，超公司预期 20%），RPO $485M（+297%），FY26 指引上调至 $280-290M（年内第二次），国际/商业/多产品线全线增长；现金+投资 $3.0B；**SkyWater $1.8B 收购 7/31 交割**（首个垂直整合全栈量子平台）。**R3 生死验证通过**——但 Wolfpack 指控（2022-24 earmarks/$54.6M 黑洞）口径与 Q2 数据不重叠，CIO 裁定「未被反证、采信度下降」，T1 降常规监控 — [IonQ IR](https://investors.ionq.com/news/news-details/2026/)
+- **08.11**：**Quantinuum 首份上市后季报**——Q2 收入 $8.0M（+279% YoY，主因云增长），全年指引 $28-32M；财报首日 +28%，但 P/S ~509x（指引口径）在利率环境下无锚 — [Quantinuum IR](https://www.quantinuum.com/press-releases/quantinuum-reports-second-quarter-2026-results)
+- **08.12**：IonQ 电话会（Fool 实录）——Q2 费用 $120.3M（含 SkyWater $20M+Oxford $10M）；GAAP 净亏损持续；有机/并表拆分未披露（→R4 新增 T6 条款）
+- **09.09**：**IBM Nighthawk r2 上线**——120 比特处理器实现 100,000 quantum circuits/s（实时量子错误解码），提前达标 2026 roadmap 目标 — [GCN](https://gcn.com/quantum-circuits-ibm-nighthawk-runs-100/21495/)
+- **09.10**：IBM+Lockheed Martin+ETH Zurich 瑞士量子创新中心（该国首台 IBM Quantum System Two 落地瑞士国家超算中心）— [IBM Newsroom](https://newsroom.ibm.com/2026-09-10)
+- **09.11**：LUMI-IQ 公布芬兰 Kajaani 2029 年底欧洲首台国家级容错超导量子计算机完整纠错蓝图 — [TechTimes](https://techtimes.com/articles/327303/20260911/)
+- **09.15**：Iceberg Quantum+Diraq qLDPC 演示——qLDPC 架构+硅 CMOS 自旋比特实现 10x 纠错效率提升（演示级）；qLDPC 从理论走向硬件验证（IBM Starling 架构假设受益）
+- **09.16**：**FOMC 加息 25bp 至 3.75-4.00%**（12-0，点阵图年底再+25bp 至 4.00-4.25%、2027 不降）——R3 监控线「10Y>5%=投机层全面承压」进入穿越期 — [Fed](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm)
+- **09.15（同日）**：**CLARITY Act 参院程序性投票失败**（未过 60 票；Trump 9/14 伦理让步救票未果）——美国加密监管框架继续悬置，BTC 跌至 $76.9K；Polymarket 年内立法概率一夜腰斩 — [Coindesk](https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote)
+- **09.23**：**IBM+UChicago RCS 量子优势论文**（arXiv 2609.28657）——Nighthawk r2 上 61 比特/36 层深度，19 秒生成 100 万随机电路采样样本，宣称领先经典超算无法实际复现。**CIO 裁定：条件 #1「部分信号」**——RCS 为优势声明最弱形式（Google 2019 先例，被反证历史基率 ~50%）+community-verified 未完成；Summit（~11 月）终裁。同日 IonQ 测试行业首个实时量子错误解码器（盘前 +12%）— [arXiv](https://arxiv.org/abs/2609.28657)/[CiVL](https://civl.com/)
+- **09.24**：**Infleqtion（NYSE: INFQ）30 逻辑比特/仅 80 物理原子**（Sqale 中性原子平台，商业机器首次）——编码效率 ~2.7:1；**口径注记：error detection 非 full correction** — [postquantum.com](https://postquantum.com/industry-news/infleqtion-30-logical-qubits/)
+- **10.01-10.09**：**投机层利率实测重创**——10Y 盘中 5.36%（10/1）触发量子股单日大跌（IONQ -4.5%/QBTS -4.8%）；10/5 盘中 5.349%（2002 高）；IONQ 10/8 收 $39.45（较 52 周高 $84.64 **-53%**）；**QNT 10/3-10/7 连创 52 周新低 $47-48**（破发行价 $60 达 -20%，较 R3 -36%）——R3「QNT 稳定 3 月→候选」路径反向清零，候选资格撤销 — [TipRanks](https://www.tipranks.com/)/[CNBC](https://www.cnbc.com/2026/10/05/treasury-yields-bonds-fed-rates.html)/[marketbeat](https://marketbeat.com/)
+- **10.07**：**Europol EC3 双报告**——「加密货币不会因量子计算崩溃」，但**公钥已上链的钱包是暴露点**；**Glassnode：~6.26M BTC（31.2% 供应）处于暴露地址**；ETH 基金会 Drake 呼吁「bunker mode」提前规划——Q-Day 威胁建模进入监管层（T4 未触发：破解时间表仍 15 年+）— [Europol](https://www.europol.europa.eu/)/[mpost.io]
+- **10.08**：白宫「Science: A New Golden Age」峰会——$6B 科学计划（AI/太空核能/生物/量子），含 **$215M 量子专项**（绝对额小，信号意义=联邦科学预算常设地位）— [CryptoTimes](https://cryptotimes.io/2026/10/09/)
+- **M-26-15 首批联邦机构 PQC 迁移计划**（EO 14412 后 120 天）10 月下旬到期——信息截止日恰在窗口内，无系统性延期报道=按期推进假设维持（确定性层验证点）
+- **CIO Round 4 裁定（10.10）**：维持「积极关注」，三层 **60/25/12→60/25/10**（投机层 -2pp，现金 5%）。IonQ 生死验证通过但 Wolfpack 口径裁定「未被反证」；IBM RCS=条件 #1 部分信号（三重标准维持，Summit 终裁）；QNT 候选撤销；Winter 25→**30%**；IBM 2029 延迟概率 45-50→**40-45%**。新增 T5（RCS 反证→Winter +5pp）/T6（IONQ Q3 有机拆分→投机层 1-1.5%）。**Q4 双终裁：IBM Summit（~11 月）+12 月 FOMC**
