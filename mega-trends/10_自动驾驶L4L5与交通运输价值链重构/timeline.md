@@ -81,3 +81,49 @@
 - 配置框架从"行业 beta"转向"三层分化 alpha"（8-10%）：确定性 55%（MBLY/GOOGL/AUR/9666/HSAI）+ 高 beta 30%（BIDU/UBER/AMZN/TSLA 暂不建）+ 投机对冲 15%（WRD 空头 5% + PONY 4% + 现金 6%）
 - 头号风险：Tesla NHTSA 升级触发监管寒冬（~25%）→ WRD 空头 asymmetric hedge
 - 最紧迫 R4 触发：NHTSA PE24031 结论（T2）+ Waymo 周单年底验证（T3）
+
+---
+
+## 2026 Q3-Q4（Round 4，10.10）— 中国成文法落地 / Waymo 平台期 / NHTSA 执法转向 / 维持积极关注·事件驱动
+
+### 中国：bill→law 首次兑现（本轮最大上修）
+- **2026.07.30**：**GB 44721-2026**（首部 L3/L4 强制国标）批准，**2027.07.01 强制生效**（China Daily Brief / ievchina 2026.08）
+- **2026.08.25**：**道路交通安全法修订草案一读**（NPC 常委会）——自动驾驶写入国家基本法，**系统激活时责任归制造商**（全球首次，ievchina）
+- **2026.07**：GA/T 2388-2026 交安标准落地；20+ 车型预埋 L3 硬件（autosignal 2026.09）
+- **2026.08**：智驾新车渗透 **70%**、城区 NOA 月装 42.7 万辆（渗透 27.9%，geisou/cathayev 2026.09）；对照乘用车零售 H1 **-20.2%**（乘联会转引 Horizon 中报）——"总量收缩×智能化跃升"剪刀差
+
+### 美国：立法停滞 + 执法收紧（本轮最大下修）
+- **2026.09.04**：**NHTSA 开 AQ26002 审计查询**——Cybercab（无方向盘/踏板）自认证合法性
+- **2026.09.10**：Special Order 索 21 项宣誓答复（原 9.30，特斯拉求延 8 周仅获 30 天 → **10.30 截止**）；同日国会议员凭 43 起睡觉驾驶视频施压 DOT（teslanorth 2026.10.08 / electrek 2026.09.10）
+- SELF DRIVE Act 无立法进展（House bill 原地）
+
+### Waymo：周单平台期（T3 贴线）
+- **2026.03-08**：城市 10→15（+Denver/Las Vegas/San Diego/Tampa），但四次披露周单均 **~50 万**，**trips/vehicle -25%**（Third Pole Markets 2026.08/09）
+- **2026.08.20**：CPUC 批准扩展 18 个加州县；第三方中枢预测 Q4 周单 71.3 万（futuresearch）——年底 100 万目标大概率落空；**与 Uber 结束凤凰城合作**（2026.05-06，TechCrunch 2026.06.29）
+
+### Tesla：扩城最快 vs 监管最猛
+- **2026 Q3**：Robotaxi 7 市场运营（Austin Cybercab + Dallas/Houston/Miami/Orlando/Tampa 无安全员 + Bay Area 带安全员），6am-10pm 全周；定价 **~$0.75/mile**（约 Waymo 一半）——价格战开启（notateslakiller/chargenews 2026.09；tesery 2026.06）
+- **2026.09.25+**：Cybercab 德州工厂下线注册（fsddb 车架号）；FSD v14.3.x 连发 + v15 推送；无监督 FSD 承诺仍悬 Q4
+
+### Aurora：技术兑现、财务恶化
+- **2026.07.29**：Q2 发布 **Aurora Driver 2**（国际 LT 底盘、硬件成本 -50%）、TaaS 新签（Charger Logistics/Valu）；但**收入 $2M / 净亏 $270M（史上最大）**、卡车目标 200+→200 微调下修（gurufocus/druckfin/thebidterminal）
+
+### NVIDIA：从芯片商到生态操盘手
+- **2026.03.16（GTC）**：**NVIDIA×Uber：2027 起 10 万辆 robotaxi/28 城四大洲**（史上最大 AV 承诺，待订单口径确认）
+- **2026.06.01（GTC Taipei）**：DRIVE Hyperion 成全球参考架构 + **Hyperion 10**；**BYD/吉利/日产/五十铃确认 Hyperion L4 设计**、VinFast 合作（tmtpost/unboxfuture/unbiasedheadlines 2026.06-09）
+- **2026.09.10**：NVIDIA 博客确认 Waymo/Zoox/萝卜快跑采用"三计算机"全栈——AV"Wintel 时刻"
+
+### 中国阵营出海 + 卖水人重排
+- **萝卜快跑**：Q2 全无人 **100 万单/季、累计 2300 万**（Baidu Q2 call 2026.08.18）；瑞士 AmiGo L4 牌（2026.06.16，electrek）+ 伦敦开测（Uber+Freenow，2026.10）+ 香港首批全无人牌
+- **Zoox**：拉斯维加斯**美国首个 purpose-built 收费服务**（2026.08.10，newslantern）+ Austin/Miami 扩展，~100 万乘客/300 万英里（ventureatlas，口径待拆）
+- **Mobileye**：Q2 收入 $508M **同比持平**（Q1 曾 +27%）——"卖水人"增长故事破裂（Mobileye IR 2026.07.23）
+- **地平线 9666.HK**：H1 收入 RMB20.55 亿 **+32.9%**、GM 66%、出货 ~220 万颗（HKEX 2026.08.31）
+- **禾赛 HSAI**：Q2 收入 +21.5%、净利 RMB7060 万 **+60%**、SGI 指引翻倍（6-K 2026.08.18）
+- **二梯队失血**：Pony H1 净亏 $98.9M（robotaxi 收入 $12.1M +691% 但基数极小）；WeRide H1 净亏 RMB789M（Benzinga/SEC 2026.08）
+
+### R4 CIO 裁定（10.10）
+- **维持「积极关注·事件驱动跟踪档」**；加权期望 +0.6%（R3 ~+12% 下修）——中国立法上修不足以对冲美国执法下修+10Y 5.3% 压制
+- 配置内部重排：**MBLY 15→8%、AUR 12→8%（降档）；9666.HK 8→12%、HSAI 5→7%（升档）**；TSLA 冻结至 10.30 后；WRD 空头 5% 维持（NHTSA 负面泄露加至 7% 预案）
+- 假设修正：H1 82→75%、H2 75→**50%（"卡车先盈利"不成立，正式记档）**、H3 68→75%、H5 60→**72%（道交法首锚）**
+- 新增退场：K-new-1（Waymo Series E <$100B）/K-new-2（Aurora 年报 <$30M 清仓）/K-new-3（中国卖水人毛利率破位砍仓）
+- 最紧迫 R5 触发：**10.30 Tesla-NHTSA 答辩** + Waymo 年底周单三档（65/55/50 万）
