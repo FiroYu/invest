@@ -97,3 +97,32 @@
 - R3 裁定：积极关注（维持，但从做空篮子改为多空分层）。
 - 核心变化：R2 偏强反向共识，认为 AI 全面压缩 SaaS 毛利；R3 修正为分层：深度系统不是马上被替代，但浅层协作和中端工具更脆弱。Agentforce 产品成熟度不足验证承压逻辑，数据治理瓶颈又验证 incumbents 护城河仍在。
 - R4 前观察：核心催化、财报/订单、政策变化、估值是否已 price-in。
+
+## Round 4 更新（2026-10-10）
+
+### SaaSpocalypse：叙事变行业事实
+- **2026.02.03（Black Tuesday）**：Anthropic 发布 **Claude Cowork**（自主执行合同审查/财务分诊/企业工作流的 agent 套件）→ S&P 软件指数单日 **-13%**，七日 >$1T、一个月 ~**$2T** 市值蒸发（jabbfusion/ai2.work）
+- **2026.03.31**：公共 SaaS EV/Rev 中位数压至 **3.3x**（2024 底 6.2x）；Q2 私募基准 ~3.5x 企稳（Windsor Drake/quantpillar）
+- **2026.07**：**Gartner 量化 $234B 企业应用支出暴露于 agentic arbitrage**（~20%，2030 口径）——席位绕过从卖方叙事变买方采购武器
+- 定价结构：纯 per-seat 交易仅 8%；AI 公司席位定价 21%→**15%**（12 个月）；hybrid 27%→**41%**（valueaddvc/agentmarketcap 2026.04）
+
+### incumbents 定价革命（席位→hybrid→outcome 三级火箭）
+- **2026.04.09**：**ServiceNow 五层→三层 AI-native 改版**（Foundation/Advanced/Prime），Now Assist/Moveworks/Data Fabric/AI Control Tower 全打包——"AI 不可拒绝"；**07.01 旧 SKU 停售**（不可逆点）（Crossfuze 2026.04-07）
+- **2026.08.26**：Salesforce Q2 FY27 收入 +11%、cRPO +14% CC、上调指引 $200M；Agentforce ARR $800M（FY26 代理书，+169%）→**~$1.5B**（09 月）；**Flex Credits+$2/resolved case**（人工介入不计费）——SaaStr 案例"10 人类席位→2 人+1 API 席位、年账单 -80%"（Salesforce IR；koda 2026.09.17）
+
+### 财报季分化（受益层/承压层）
+- **受益层**：PLTR Q1 +85%/Q2 **+93%**、市值 >$300B（~120-140x P/E）；ORCL FY27Q1 云 infra **+121%**、backlog **$664B**（但 FCF 负、capex $28.5B）；SNOW FY27Q2 产品收入 **$1.49B +37%**（加速）；Databricks $7B 年化 +80%、$190B 估值；MSFT FY26Q4 Azure 破 $100B、**Copilot 付费席位 >30M**、RPO $678B
+- **承压/矛盾层**：SAP Q2 云 +24% 但 **AI Agent 部署仅 17/200 客户**+AI 收购致利润下修；WDAY Q2 收入 +12.8% 但 backlog miss（agentic ARR ~$500M、新 ACV +200% 的净效应存疑）；HUBS 管理层承认"先试用后承诺"
+- **WDAY 定位**：cannibalization 指标股——AI ACV 高增 vs 传统 backlog 减速并存，R4 起单列跟踪
+
+### AI-native 从案例变品类
+- **80+ 家 AI-native 公司 $100M+ ARR**（Sapphire 2026 报告）
+- **Glean $300M ARR**（一年三倍，估值 $7.2B）；**Harvey $11B**；Sierra agents-as-a-service；Intercom Fin $0.99/工单八位数 ARR（+393%）
+- **Cursor/Anysphere：ARR ~$4B（06 月）→SpaceX $60B 全股票收购完成**——AI 编程工具升格战略资产（Bloomberg 2026.03 报道/au.investing 2026.09）
+
+### R4 CIO 裁定（10.10）
+- **维持「积极关注（多空分层+纪律强化）」**；加权期望 +4.3%（R3 ~+6-8% 微降）——方向赢了叙事、钱包被 10Y 5.3% 和双待验证（H4/H5）压制
+- 假设修正：H1 70-85%→**85%（公司级实证降级为强假设）**；H3 分界线修正为**数据上下文×自我蚕食意愿双因子**（SAP 反例记档）；新增 **H4 席位通胀逆转（NOW 续约裁决，≥97% 证伪线）/H5 3.3x 结构均衡（归因回归待完成）**
+- 配置重构：**PLTR 正股清仓改 5% 期权**（120-140x 集中度风险）；**CRM 新建 10%**（自我革命者+7x 安全边际）；**WDAY 信号仓 5%**；SAP 空头移出（不空巨头）；MSFT 15→12%
+- 新增退场：K7（NOW 续约 ≥97%→H4 证伪）/K8（PLTR 增速 <85%→期权平仓）/K9（WDAY backlog 两季 miss→信号仓清仓）
+- 最紧迫 R5 触发：**NOW Q3+首批三层续约（H4 裁决）、CRM Q3 Agentforce >$2B?+outcome 占比、PLTR Q3 增速、EV/Rev 归因回归**
