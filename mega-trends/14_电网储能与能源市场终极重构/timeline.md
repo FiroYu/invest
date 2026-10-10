@@ -87,3 +87,42 @@ Form Energy的铁-空气电池技术实现商业化部署：
 
 ### R3 CIO 裁定（07.10）
 - **通过 / 高优先级跟踪**（R2 上调跟踪优先级）；加权预期回报 +16.5%（下修）；采纳魔鬼代言人对三员共识 ~15-20% 乐观折扣；GEV 仓位 20% 上限（防周期拉货顶 30% 概率）
+
+---
+
+## 2026 Q3-Q4（Round 4，10.10）— 部署量上修 / 收益侧通缩 / Form 降级 / AIDC 新锚
+
+### 部署与出货（量：全面上修）
+
+- **09.01**：SEIA+Benchmark ESMO——**美国 Q2 新增 6.7GW/20.2GWh（单季历史纪录）**，表前 17.9GWh（7 个 ≥1GWh 项目：AZ×4/CA×2/UT×1）；AZ 6.2GWh 单州纪录；74% 落在红州；H1 30.8GWh（+23%）；全年预测 **71GWh（+20%）**；**2030 累计预测上调 11.5% 至 683GWh**；表前累计 165GWh（18 个月近翻倍） — [SEIA/Benchmark](https://reslink.org/blogs/us-energy-storage-hits-record-20-2-gwh-in-q2-2026)
+- **08.07**：EIA——美国储能 6 月底 ~52GW（H1 新增 8.3GW）；H2 计划再 +14GW、2027 +26GW、2028 +14GW — [EIA](https://www.eia.gov/todayinenergy/detail.php?id=67925)
+- **H1**：全球储能电芯出货 **467.8GWh（+94.8%，InfoLink）**；中国储能电池销量 **+83.4%**；8 月储能电芯产量占锂电池总产量 >40%（**首超动力电池**）；中国厂商 H1 新签储能订单 817GWh — [InfoLink/abk]
+
+### 收益侧（钱：结构性压缩确立）
+
+- **2026**：**ERCOT 电池收入 $29.4/kW**（2024 $56、2023 $193——两年 -85%）：辅助服务饱和+套利价差收窄；2025H2 新并网申请腰斩至 13.6GW — [Modo Energy](https://modoenergy.com/)
+- **06 月**：CAISO 负 DA 电价小时 66（YoY ×3）、春季弃光均值 4.8GW（纪录）；TB4 日价差 $135→$116/MW；**EIA 预测加州夏季批发均价 -30% 至 ~$23/MWh**、西南 -27% — [Modo/EIA/hypersinc]
+- **量化线（R4 采纳）**：若批价入 $20-30/MWh 区间，2027 项目发起量或 -50%（merchant 减值带）；4h LCOS ~$0.10-0.13/kWh vs 套利门槛 $0.15/kWh
+
+### 催化链（AI×储能）
+
+- **05.18（补录）**：**NEE $67B 全股票收购 Dominion**（本世纪最大电力并购，Exxon-Mobil 以来最大能源并购）：合并后 10M 客户/110GW/建设管线 130GW；NEE-Meta 另有 2.5GW 清洁+储能 PPA（12 月） — [Fortune](https://fortune.com/2026/05/18/nextera-dominion-67-billion-acquisition-ai-data-centers-largest-utility/)
+- **09.21**：**Tesla Megapack 获 NVIDIA DSX Ready 认证**（AI 工厂参考设计入库）——AIDC 表后储能需求与 AI CapEx 直接挂钩 — [edgex]
+- **08.05**：Fluence FY26Q3——收入 $649.8M 但**下调全年指引**（收入 $3.2-3.6B→$2.9-3.1B；EBITDA $40-60M→-$30~+10M；新厂爬坡延迟 $400M 递延至 FY27）；**订单 $1.44B/季（+80% YoY）、backlog $6.4B（+14% QoQ）、首批数据中心单 $850M**（含 >$0.5B hyperscaler BTM）——"需求强/执行弱" — [Fluence IR](https://ir.fluenceenergy.com/news-releases/news-release-details/fluence-energy-inc-reports-third-fiscal-quarter-2026-results/)
+- **2026**：AI 数据中心储能电池出货 1-5 月 >10GWh（超 2025 全年）、全年预期 30GWh
+
+### 财报与标的
+
+- **07.02**：Tesla Q2 储能部署 **13.5GWh**（史二高，Shanghai 创纪录；H1 22.3GWh）；能源收入 $3.1B（+13%）；Megapack3（5MWh）+Megablock（20MWh 单元）Houston 50GWh 厂 Q4 量产（国产电芯 LG 密歇根 2027/8 前有 10 个月缺口）
+- **07.22**：**GEV Q2**——订单 $24.2B（+88% 有机）、收入 $11.1B（+22%）、backlog $176B（+$13B QoQ）、**FCF $5.1B（超 2025 全年）**、上调全年收入/FCF 指引；燃机合同 100→**116GW**（年底 ≥125GW）；产能 20GW（Q3 达产）→24GW（2028）→30GW（2030）；数据中心订单 YTD $5B+；Electrification 订单 +66% — [GEV](https://www.gevernova.com/news/articles/ge-vernova-releases-second-quarter-2026-financial-results)
+- **07.24**：**CATL Q2**——出货 232GWh（+55%，超共识）；**储能 58GWh（+93%）**、储能 ASP ¥0.49/Wh（-3% QoQ）；综合毛利率 **23.2%（-1.6pct QoQ，低于共识 25%）**（动力 20.6%/储能 24.0%）；产能利用率 95%；2026 目标 1.2TWh、在建产能 +140%——T1 预警区（<23%）上沿 — [Dolphin](https://dolphinresearch.substack.com/)
+- **08.28**：Sungrow H1——收入 ¥30.9B（-29%）、净利 ¥5.26B（-32%，沙特大单基数效应）；**储能收入 ¥15.5B 占 50% 首超逆变器**、出货 25GWh（+28%）；AIDC 储能在手 2GWh/管线 >10GWh；预期 2027 欧洲大储 +50% — [arc-codex]
+
+### 技术与成本
+
+- **06.22**：**CATL TENER 钠离子 BESS 发布**（慕尼黑）——首个实地验证钠离子大储：15,000 循环（25°C）/25-30 年寿命/-20°C 保持 92%/热失控 ~200°C（-60%）；9 月中国交付启动、年底 1GWh、2027 全球；福鼎 40GWh+济宁 160GWh 钠产能规划；**60GWh HyperStrong 供应协议（4 月，史上最大钠单）+Alfen 5GWh 欧洲 MOU（7/16）** — [electrek](https://electrek.co/2026/07/16/catl-sodium-ion-15000-cycle-grid-storage)
+- **06.12**：BYD 三代 NFPP 钠路线瞄准表后大储：**2027 制造成本目标 ¥0.3/Wh（$0.04/Wh）**+西宁 50GWh 规划；长安-CATL 45kWh 钠电池乘用车量产
+- **锂价**：碳酸锂 5/13 峰值 ¥200.5k/t → **9 月期货 ¥128k/现货 ~¥142k（-29~35% off peak）**（供给恢复：8 月产量 +7% MoM、9 月 +11% 预期）；314Ah 储能电芯 ¥0.365/Wh（较 2025 底 +20%）——**平台震荡**而非单边；UBS 上调年均价预测至 ¥200k（乐观）
+- **政策**：FEOC/PFE 材料援助门槛表定型（2026 开工 55% 非 PFE→2029 后 75%；电池组件 60→85%）+IRS Notice 2026-15 三安全港；**无废除立法动作**——R3 F1 情景兑现（"合规筛选器"而非刹车）
+- **08.12**：**Form Energy Series G $750M**（T. Rowe 领投，Sequoia/Janus/Franklin 入）——**down round（pre ~$1.75B，R3 估值区间上限 $3.42B 作废）**；IPO 推至 **2027**；Great River 首项目延期至 2026 底（7 月现场"场地仍大多空置"）；backlog 80GWh（Google/Xcel 30+Crusoe 12+FuturEnergy 爱尔兰 1）；Weirton 产能分配至 2028-29 — [Latitude](https://www.latitudemedia.com/news/is-form-ready-for-the-public-market/)/[VentureAtlas]
+- **10.10（R4 CIO）**：维持「通过/高优先级跟踪」，加权 +16.5%→**+5.5%**；核心框架切换=**收益模型迁移**（merchant 套利→容量/RA/AIDC 合同）；Form 降级 2027H1 观察事件；撤销 Calpine/Vistra 空头；T1 固化为综合毛利率口径（Q3 二验）；新增 GEV×NVDA(#17) 组合联动上限 35%

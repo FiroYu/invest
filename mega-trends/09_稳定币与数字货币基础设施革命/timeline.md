@@ -93,3 +93,22 @@
 - **2026**：**去美元化叙事降级**——美元稳定币占全球 ~$315B 的 98%；mBridge 突破 $55B（e-CNY 占 95.3%），但 Foreign Policy/PIIE 判断"去美元化撞墙"（市场自发+合规背书的美元扩张压倒自上而下受控的 e-CNY）
 - **2026**：Reed S.3907 外国稳定币透明度法案（剑指 Tether，参议院阶段）；USD1/WLFI 政治冲突（业务估值 ~$1.7B，Binance 持 87%）；MiCA 下 9 行欧元稳定币联盟 Qivalis
 - **2026.07.10（R3 CIO）**：维持「积极关注」（分层）；确定性重心从发行人层（Circle）**迁移至基础设施层**（Visa/Mastercard/BlackRock）；情景 B 基线 45%；头号风险从"Tether 黑天鹅"更新为"支付巨头挤压发行人溢价"（进行时高概率）
+
+---
+
+## 2026 Q3-Q4（Round 4，10.10）— GENIUS 规则三连落地 / OUSD 财团开战 / 发行人量价背离
+
+- **07-08 月**：稳定币总市值 7 月报 $308.3B（-1%，**连续第三个月流出**）；10/9 报 $303.9B（USDT $184.1B/60.1%、USDC $73.0B）——增长引擎熄火但未失速
+- **07.31**：Tether Q2 BDO 鉴证——净营业利润 $1.5B，但**超额储备 $8.23B→$4.11B（-50%/季，覆盖率 2.2%）**：黄金增持至 146.2 吨（金价 -15% 致 ~-$1B）+多元化投资消耗 ~$5.6B；USAT（美国合规版）上 Celo；KPMG 全面审计 5 个月无时间表 — [crypto.news](https://crypto.news/tether-q2-profit-reserve-buffer-halves)
+- **08.05**：**Circle Q2'26**——收入 $701M（+7%）vs 链上交易量 $14.8T（+151%）**量价背离**；USDC 流通 $73.3B（YoY +19%/QoQ -4.8%，净赎回 $4B）；分销成本 $412M=收入 59%；**OCC 最终批准 Circle National Trust**（首批联邦信托银行牌照）+NYDFS 纽约信托；公布 Arc 创始验证者名单 — [Circle IR](https://www.circle.com/pressroom/circle-reports-second-quarter-2026-results)
+- **08.18**：Circle-Coinbase 分成协议**按原条款自动续期至 2029**（COIN 拿平台内储备收入 100%+场外 50%）——COIN 同时已加入 OUSD 财团=伙伴兼对手 — [SEC 文件]
+- **08.18**：Treasury 发布稳定币发行/销售 NPRM（评论至 10/19）：外国发行人 **2028.07.18 硬执法日**；USDT 类需"母国可比监管+OCC 注册" — [Federal Register]
+- **08.17**：Circle EURC 破 **€400M（一年 5 倍，占欧元稳定币 >50%）**；MiCA 框架下欧元线加速 — [Circle]
+- **09.15**：**CLARITY Act 参院程序性投票失败**（未过 60 票）——市场结构立法悬置，BTC 跌至 $76.9K；GENIUS 主线不受影响 — [Coindesk]
+- **09.16**：**Circle Arc 公链主网上线**——11 机构创始验证者（BlackRock/Visa/Mastercard/DTCC/ICE/渣打/MoneyGram/Galaxy/Global Payments/SBI/住友）+USDC 为 gas 代币+100 亿 ARC 创世铸造；此前 ARC 私募 $222M（@$0.30，FDV $3B，BlackRock/a16z/Apollo 参与）；BUIDL 将部署、DTCC 资产代币化通道 — [The Block](https://www.theblock.co/news/ecosystems/2026-09-16-circle-launches-arc-mainnet-with-blackrock-and-visa-among-validators-mints-10-billion-arc-tokens-415250)
+- **09.24-29**：**Fed 双 NPRM（R-1899/R-1900，7-0 通过）**——1:1 储备八类白名单（93 天内 T-bill/现金/隔夜 repo 及合规代币化形式）、两日赎回、分级运营资本金（2.0/1.5/1.0%）、**付息禁令含"关联方代付视为发行人付息"反规避推定**；评论至 11/30。**GENIUS 生效日收敛于 2027.01.18** — [Federal Register 2026-19860](https://www.federalregister.gov/documents/2026/09/29/2026-19860/)
+- **09.30**：**OUSD（Open USD）上线**——Coinbase/Mastercard/Shopify/Stripe/Visa 五家等额股权的 Open Standard 运营、Stripe 旗下 Bridge 发行、储备托管 BlackRock/Lead Bank/BNY、五创始方 >$1B 种子、200+ 伙伴（AmEx/Discover/Google/Ripple/WU）；Stripe 设为默认稳定币；**Circle 不在伙伴名单**——R3"选非 USDC→CRCL 清仓"监测条款字面触发 — [Stripe](https://stripe.com/blog/ousd-now-live-on-stripe)/[CoinDesk]
+- **09.30**：**Treasury 州认证临时最终规则**（FR 2026-19966，即时生效）——$10B 发行量分界线：线内州监管（须委员会一致认证"实质相似"）、线外 360 天内转联邦框架——首个有约束力的 GENIUS 规则
+- **04.10（补录）**：**香港发出首批稳定币牌照**（HSBC + Anchorpoint[渣打/HKT/Animoca JV]）；Qivalis 欧元银团 5 月扩至 37 行/15 国，2026H2 发币 — [Reuters](https://www.reuters.com/business/finance/hong-kong-grants-first-stablecoin-licences-stanchart-joint-venture-hsbc-2026-04-10/)
+- **10 月**：Visa 稳定币结算年化 **$20B+**（11 个月前 $3.5B）；160+ 卡计划量 +200% YoY；Allium：2026 前 8 月真实支付量 $401-527B（零售跨境 0.31%）
+- **10.10（R4 CIO）**：维持「积极关注」（分层），加权回报 +13-18%→**+1.6%**；CRCL 12% 待建→**0-3% 观察仓**（等待区失效+清仓条款触发但巨头两边下注）；COIN 18→12%；现金 5→10-12%；H2 市值 $500B 概率 60→35%；R5 双终裁=GENIUS 生效（2027.01.18）+OUSD 上量
